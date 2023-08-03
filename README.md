@@ -1,6 +1,16 @@
 # TDD 
 This is a practice project based on the book/website [TDD with GO](https://quii.gitbook.io) 
 
+# Run 
+```
+ go run ./src/hello.go  
+```
+
+# Test
+```
+go test ./src
+```
+
 # Initital Setup
 ```
 go mod init 
